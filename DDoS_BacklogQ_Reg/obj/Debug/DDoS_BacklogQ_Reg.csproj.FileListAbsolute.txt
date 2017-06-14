@@ -1,0 +1,6 @@
+c:\users\genius\documents\visual studio 2017\Projects\DDoS_BacklogQ_Reg\DDoS_BacklogQ_Reg\bin\Debug\DDoS_BacklogQ_Reg.exe.config
+c:\users\genius\documents\visual studio 2017\Projects\DDoS_BacklogQ_Reg\DDoS_BacklogQ_Reg\bin\Debug\DDoS_BacklogQ_Reg.exe
+c:\users\genius\documents\visual studio 2017\Projects\DDoS_BacklogQ_Reg\DDoS_BacklogQ_Reg\bin\Debug\DDoS_BacklogQ_Reg.pdb
+c:\users\genius\documents\visual studio 2017\Projects\DDoS_BacklogQ_Reg\DDoS_BacklogQ_Reg\obj\Debug\DDoS_BacklogQ_Reg.csprojResolveAssemblyReference.cache
+c:\users\genius\documents\visual studio 2017\Projects\DDoS_BacklogQ_Reg\DDoS_BacklogQ_Reg\obj\Debug\DDoS_BacklogQ_Reg.exe
+c:\users\genius\documents\visual studio 2017\Projects\DDoS_BacklogQ_Reg\DDoS_BacklogQ_Reg\obj\Debug\DDoS_BacklogQ_Reg.pdb
